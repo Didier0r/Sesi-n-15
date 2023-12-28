@@ -1,0 +1,2 @@
+codigoCompras,nombreProducto,DescripcionProducto,Precio2,Aspirinas ,30000
+2,Aspirinas ,30000
